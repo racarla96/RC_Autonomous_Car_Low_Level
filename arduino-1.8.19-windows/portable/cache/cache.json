@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\Rafael\\Documents\\GitHub\\RC_Autonomous_Car_Low_Level\\arduino-1.8.19-windows\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "253cacb282feb2fc176c8813626979db",
+    "md5" : "MD5:253cacb282feb2fc176c8813626979db",
+    "createdAt" : "2022-08-09T23:40:22.64",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-08-10T03:40:22.640"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\Rafael\\Documents\\GitHub\\RC_Autonomous_Car_Low_Level\\arduino-1.8.19-windows\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "b32261ecb51d701eee34f8834a4576cc",
+    "md5" : "MD5:b32261ecb51d701eee34f8834a4576cc",
+    "createdAt" : "2022-08-09T23:40:21.402",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-08-10T00:40:21.402"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\Rafael\\Documents\\GitHub\\RC_Autonomous_Car_Low_Level\\arduino-1.8.19-windows\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "6f941c8ba496c621aecf71a85e2f0f18",
+    "md5" : "MD5:6f941c8ba496c621aecf71a85e2f0f18",
+    "createdAt" : "2022-08-09T23:40:23.111",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-08-10T03:40:23.111"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\Rafael\\Documents\\GitHub\\RC_Autonomous_Car_Low_Level\\arduino-1.8.19-windows\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "9cdb5092554b4d02c3f8f55477bbc44b",
+    "md5" : "MD5:9cdb5092554b4d02c3f8f55477bbc44b",
+    "createdAt" : "2022-08-09T23:40:20.714",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-08-10T00:40:20.714"
+  } ]
+}
